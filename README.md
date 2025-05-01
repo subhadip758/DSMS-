@@ -1,6 +1,6 @@
 # DSMS University Website
 
-This repository contains the front-end source for a university website created using [Wix Studio](https://www.wix.com/studio), a no-code web development platform. The website showcases core pages such as Home, Library, Canteen, Hostels, and Campus Life.
+This repository contains the front-end source for a university website created using Wix Studio, a no-code web development platform. The website showcases core pages such as Home, Library, Canteen, Hostels, and Campus Life.
 
 ## 🌐 Live Site
 Visit the live site: [malaypandeygoodboy.wixstudio.com/my-site](https://malaypandeygoodboy.wixstudio.com/my-site)
@@ -25,13 +25,13 @@ As this site is hosted and managed through Wix, traditional file structures are 
 - Responsive and mobile-optimized layout
 - Custom domain support
 - Pre-rendered content for faster loading
--AI Chatbot
+- AI Chatbot
 - Integrated navigation across multiple sections:
 1.	Home
-2.	-Faculties
-3.	-Research
-4.	-Apply and enroll
-5.	-University info:
+2.	Faculties
+3.	Research
+4.	Apply and enroll
+5.	University info:
 
 •	Library
 •	Canteen
