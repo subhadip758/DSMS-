@@ -41,8 +41,11 @@ As this site is hosted and managed through Wix, traditional file structures are 
 ## 🧑‍💻 Author
 
 **Subhadip Pal
+
     Malay Pandey 
+    
     Sourav Koley
+    
     Debanga Guria**  
 B.Tech Student (Computer Science and Engineering)
 Brainware University  
